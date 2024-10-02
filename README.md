@@ -1,2 +1,3 @@
 # Linux-Programming
-![png-transparent-linux-kernel-computer-icons-windows-subsystem-for-linux-computer-servers-land-agent-vertebrate-bird-linux](https://github.com/user-attachments/assets/39c3272b-57f4-44e6-a3e3-9d031126ef93)
+
+![518713](https://github.com/user-attachments/assets/aebde5c5-a1ab-4b5c-9c26-b28f04e3c082)
